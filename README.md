@@ -2,11 +2,11 @@ Prerequisites
 
 1)	Python 2.7.8
 2)	Python Libraries:
-a)	NumPy
-b)	Pandas
-c)	sci-kitlearn (sklearn)
-d)	Natural Language Toolkit (nltk)
-e)	Natural Language Toolkit Data (words, punkt)
+  a)	NumPy
+  b)	Pandas
+  c)	sci-kitlearn (sklearn)
+  d)	Natural Language Toolkit (nltk)
+  e)	Natural Language Toolkit Data (words, punkt)
 To download this data, the following commands need to be executed from a the python shell:
 
 import nltk
